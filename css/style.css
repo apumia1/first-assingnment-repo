@@ -253,9 +253,33 @@ h1 {
     height: 72px;
     color: white;
     border: 0px;
-    padding-bottom: 30px;
+    padding-bottom: 15px 15px;
 }
 
 .user {
     margin-left: 600px;
+
+}
+
+.footer-man {
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+    color: white;
+}
+
+.social-icons {
+    text-align: center;
+
+}
+
+hr {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.finished {
+    background: #070211;
+    margin-top: 30px;
+    margin-right: 30px;
 }
