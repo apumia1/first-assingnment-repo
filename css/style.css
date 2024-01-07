@@ -152,7 +152,7 @@ h1 {
     border-radius: 8px;
     background: #F00;
     padding: 16px 32px;
-    gap: 10px;
+    /* gap: 10px; */
 }
 
 .bonus {
@@ -210,4 +210,52 @@ h1 {
 
 .offer-hut:hover {
     border: 2px solid blue;
+}
+
+
+.log-in {
+    align-items: center;
+    width: 400px;
+    height: 72px;
+    padding-left: 20px;
+    border: 0px;
+    margin-left: 200px;
+
+
+}
+
+.description {
+    margin-left: 200px;
+}
+
+.mail {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+}
+
+
+.news {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    ;
+    text-transform: capitalize;
+}
+
+.sub-mit {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    color: white;
+    border: 0px;
+    padding-bottom: 30px;
+}
+
+.user {
+    margin-left: 600px;
 }
