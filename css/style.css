@@ -269,6 +269,9 @@ h1 {
     gap: 100px;
     margin-left: 100px;
     color: white;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-bottom: 50px 50px 50px 50px;
 }
 
 .social-icons {
