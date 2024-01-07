@@ -286,3 +286,42 @@ hr {
     margin-top: 30px;
     margin-right: 30px;
 }
+
+.bonus-part {
+    background: #FFF;
+    margin-top: 30px;
+
+}
+
+.bonus-title {
+    text-align: center;
+    font-size: 72px;
+
+    color: #070211;
+}
+
+.excited {
+    display: flex;
+}
+
+.girl-first {
+    width: 400px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+
+
+.bg-img {
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-position: bottom;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-position: bottom;
+
+
+}
+
+.holi-dat {
+    color: #F00;
+}
