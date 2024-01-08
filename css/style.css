@@ -298,33 +298,37 @@ hr {
 
 .bonus-title {
     text-align: center;
-    font-size: 72px;
+    font-size: 22px;
 
     color: #070211;
 }
 
 .excited {
     display: flex;
+    gap: 50px;
+    margin-left: 100px;
 }
 
-.girl-first {
-    width: 400px;
-    height: 500px;
-    margin-top: 50px;
-}
-
-
-
-.bg-img {
+.food-blog {
     background-image: url(../resources/Rectangle\ 2.png);
     background-position: bottom;
-    margin-right: 100px;
-    margin-left: 100px;
-    background-position: bottom;
-
+    height: 600px;
 
 }
 
 .holi-dat {
     color: #F00;
+}
+
+.circle {
+    width: 30%;
+    height: 100%;
+    border: 5px solid red;
+    border-radius: 50%
+}
+
+.circle-act {
+    padding-left: 50px;
+    height: 200px;
+    width: 200px;
 }
