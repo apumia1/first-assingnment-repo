@@ -343,10 +343,11 @@ hr {
     background-repeat: no-repeat;
     width: 429px;
     height: 433px;
-    margin-right: 50px;
+    margin-left: 50px;
 }
 
 .first {
     width: 206.841px;
     height: 206.841px;
+    margin-right: 100px;
 }
